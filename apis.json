@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Pivotal Tracker",
+	"description": "This is a repository of pivotal tracker APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/pivotal-tracker.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://pivotal-tracker.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Pivotal Tracker",
+			"x-api-slug": "pivotal-tracker",
+			"description": "Pivotal Tracker is the agile project management tool of choice for developers around the world for real-time collaboration around a shared, prioritized backlog.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11526-pivotal-tracker.jpg",
+			"humanURL": "http://pivotaltracker.com",
+			"baseURL": "https://www.pivotaltracker.com//services/v3/",
+			"tags": "Pivotal Tracker",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/pivotal-tracker/master/_listings/pivotal-tracker/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Pivotal Tracker",
+	"include": [
+		{
+			"name": "Pivotal Tracker",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/pivotal-tracker/master/_listings/pivotal-tracker/apis.yaml"
+		}
+	]
+}

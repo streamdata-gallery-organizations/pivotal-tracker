@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11526-pivo
 x-kinRank: "7"
 x-alexaRank: "15894"
 tags: Pivotal Tracker
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-30"
+modified: "2018-08-30"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/pivotal-tracker/master/_listings/pivotal-tracker/apis.md
 specificationVersion: "0.14"
 apis:
